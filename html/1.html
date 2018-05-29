@@ -127,7 +127,8 @@ function jo_app_return(param){
 		jo_app_start("joCheckPermission",null,jo_app_return);
 	}
 	function checkVersion(){
-		jo_app_start("joCheckVersion",null,jo_app_return);
+		var param = "api/config/version";
+		jo_app_start("joCheckVersion",param,jo_app_return);
 	}
 	function bell(){
 		jo_app_start("joBell",null,jo_app_return);
