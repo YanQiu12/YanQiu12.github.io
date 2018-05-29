@@ -81,6 +81,7 @@ function jo_app_return(param){
 <nobr><a onClick='playVideo()'>--------播放视频-----------</a></nobr><br/><br/><br/>
 <nobr><a onClick='checkPermission()'>--------检查权限-----------</a></nobr><br/><br/><br/>
 <nobr><a onClick='checkVersion()'>--------检查更新-----------</a></nobr><br/><br/><br/>
+<nobr><a onClick='bell()'>--------响铃JoBell-----------</a></nobr><br/><br/><br/>
 <nobr><a onClick='jowebuiopen()'>--------打开新JoWebUI--------</a></nobr><br/><br/><br/>
 <br/>  
 <div id="content" ></div>  
@@ -103,7 +104,7 @@ function jo_app_return(param){
    }
     function alipay(){
 		var strAlipay = '{"outTradeNO":"34","notifyURL ":"https://www.duihao.com/","subject":"对号科技","totalFee":"12.00"}';
-       jo_app_start("joAlipay",strAlipay,"jo_app_return");
+		jo_app_start("joAlipay",strAlipay,"jo_app_return");
    }
     function LoginOpen(){
 		var loginType = "QQ";
@@ -120,11 +121,14 @@ function jo_app_return(param){
 		var videoUrl = "http://221.228.226.23/11/t/j/v/b/tjvbwspwhqdmgouolposcsfafpedmb/sh.yinyuetai.com/691201536EE4912BF7E4F1E2C67B8119.mp4";
 		jo_app_start("joPlayVideo",videoUrl,jo_app_return);
 	}
+	function checkPermission(){
+		jo_app_start("joCheckPermission",null,jo_app_return);
+	}
 	function checkVersion(){
 		jo_app_start("joCheckVersion",null,jo_app_return);
 	}
-	function checkPermission(){
-		jo_app_start("joCheckPermission",null,jo_app_return);
+	function bell(){
+		jo_app_start("joBell",null,jo_app_return);
 	}
    function jowebuiopen(){
 	   var param = '{"title": "对号JoWebUIDemo","url": "https://www.baidu.com/","opentype":"0","setting": {"title": "JoWebUI Demo","height": "95","color": "#00BFFF","left": {"text":"啦啦啦啦","icon": "http://jo3.2om.cn/images/lefttitle.png","right": {"text":"啦啦啦啦","icon": "http://jo3.2om.cn/images/righttitle.png","onclick":{"type":"0","data": [{"image": "","text": "消息","lijie":"http://www.duihao.com/","ndata":{"content":"lalala","description":"description","url":"","fimage":""}},{"image": "","text": "首页","lijie":"https://www.163.com/","ndata":{"content":"lalala","description":"description","url":"","fimage":""}},{"image": "","text": "帮助","lijie":"https://www.qq.com/","ndata":{"content":"lalala","description":"description","url":"","fimage":""}},{"image": "","text": "分享","lijie":"https://www.duihao.com/","ndata":{"content":"lalala","description":"description","url":"https://hao.360.cn/","fimage":""}},{"image": "","text": "我的","lijie":"https://www.baidu.com/","ndata":{"content":"lalala","description":"description","url":"","fimage":""}}]}}}}}';
