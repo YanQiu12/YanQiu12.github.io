@@ -55,7 +55,7 @@ function  jo_app_start(name, param, returnName){
 //APP方法执行完毕后，回传方法
 //param 回传参数组（Json字符集）
 function jo_app_return(param){
-	window.jojs.start("joDialog", “得到一个东西：”+param,null); 
+	jo_app_start("joDialog", “得到一个东西：”+param,null); 
 	//alert("得到一个东西："+param);
 	//document.getElementById("content").innerHTML +=("<br\>"+param);  
 }                    
