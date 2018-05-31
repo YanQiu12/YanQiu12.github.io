@@ -71,6 +71,7 @@ function jo_app_return(param){
  </table>
  <br/>
 <nobr><a onClick='upload()'>--------上传joUpload--------</a></nobr><br/><br/><br/>
+<nobr><a onClick='file()'>--------上传joFile--------</a></nobr><br/><br/><br/>
 <nobr><a onClick='share()'>--------分享joShare--------</a></nobr><br/><br/><br/>
 <nobr><a onClick='pay()'>--------支付joPay--------</a></nobr><br/><br/><br/>
 <nobr><a onClick='wxpay()'>--------微信支付--------</a></nobr><br/><br/><br/>
@@ -91,6 +92,10 @@ function jo_app_return(param){
     function upload(){
 		var uploadUrl="http://duobao.2om.cn/api/index.php/";
 		jo_app_start("joUpload",uploadUrl,jo_app_return);
+	}
+	function file(){
+		var fileUrl="http://duobao.2om.cn/api/index.php/";
+		jo_app_start("joFiile",fileUrl,jo_app_return);
 	}
 	function share(){  
 		var strShare = '{"title":"百度一下，你就知道","description":"这是一个百度连接","url":"http://www.baidu.com","image":"https://www.baidu.com/img/bd_logo1.png?where=super"}';
