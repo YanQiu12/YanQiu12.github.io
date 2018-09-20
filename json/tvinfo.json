@@ -7,6 +7,12 @@
             "tv_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"
         },
         {
+            "tv_is_open": true,
+            "tv_logo_url": "icon_tv_cctv1.png",
+            "tv_name": "CCTV-1",
+            "tv_url": "http://cctv.v.kcdnvip.com/live/cctv1_1/index.m3u8?BR=md&region=shanghai"
+        },
+        {
             "tv_is_open": false,
             "tv_logo_url": "icon_tv_cctv2.png",
             "tv_name": "CCTV-2",
@@ -185,6 +191,12 @@
             "tv_logo_url": "icon_tv_zhejiang.png",
             "tv_name": "河南卫视",
             "tv_url": "http://202.107.186.137:5001/nn_live.m3u8?id=henantvm&time=1537350435945"
+        },
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "icon_tv_zhejiang.png",
+            "tv_name": "香港卫视",
+            "tv_url": "http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8?wsSession=7abeb5ef9189f7db2b2fb3ed-153743703937358&wsIPSercert=1615cd5fdf06ebc2a72236b7afe51230&wsMonitor=-1&time=1537437046849"
         },
         {
             "tv_is_open": true,
