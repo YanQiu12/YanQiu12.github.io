@@ -3,111 +3,133 @@
         {
             "tv_is_open": true,
             "tv_name": "CCTV-1",
+			"tv_logo_url": "icon_tv_cctv1.png",
             "tv_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"
         },
         {
             "tv_is_open": false,
             "tv_name": "CCTV-2",
+			"tv_logo_url": "icon_tv_cctv2.png",
             "tv_url": "http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8"
         },
         {
             "tv_is_open": true,
             "tv_name": "CCTV-3",
+			"tv_logo_url": "icon_tv_cctv3.png",
             "tv_url": "http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8"
         },
         {
             "tv_is_open": false,
             "tv_name": "CCTV-4",
+			"tv_logo_url": "icon_tv_cctv4.png",
             "tv_url": "http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8"
         },
         {
             "tv_is_open": true,
             "tv_name": "CCTV-5",
+			"tv_logo_url": "icon_tv_cctv5.png",
             "tv_url": "http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8"
         },
         {
             "tv_is_open": true,
             "tv_name": "CCTV-6",
+			"tv_logo_url": "icon_tv_cctv6.png",
             "tv_url": "http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8"
         },
         {
             "tv_is_open": false,
             "tv_name": "CCTV-7",
+			"tv_logo_url": "icon_tv_cctv7.png",
             "tv_url": "http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8"
         },
         {
             "tv_is_open": true,
             "tv_name": "CCTV-8",
+			"tv_logo_url": "icon_tv_cctv8.png",
             "tv_url": "http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8"
         },
         {
             "tv_is_open": false,
             "tv_name": "CCTV-9",
+			"tv_logo_url": "icon_tv_cctv9.png",
             "tv_url": "http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8"
         },
         {
             "tv_is_open": false,
             "tv_name": "CCTV-10",
+			"tv_logo_url": "icon_tv_cctv10.png",
             "tv_url": "http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8"
         },
         {
             "tv_is_open": false,
             "tv_name": "CCTV-11",
+			"tv_logo_url": "icon_tv_cctv11.png",
             "tv_url": "http://ivi.bupt.edu.cn/hls/cctv11hd.m3u8"
         },
         {
             "tv_is_open": false,
             "tv_name": "CCTV-12",
+			"tv_logo_url": "icon_tv_cctv12.png",
             "tv_url": "http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8"
         },
         {
             "tv_is_open": false,
             "tv_name": "CCTV-13",
+			"tv_logo_url": "icon_tv_cctv13.png",
             "tv_url": "http://ivi.bupt.edu.cn/hls/cctv13hd.m3u8"
         },
         {
             "tv_is_open": false,
             "tv_name": "CCTV-14",
+			"tv_logo_url": "icon_tv_cctv14.png",
             "tv_url": "http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8"
         },
         {
             "tv_is_open": false,
             "tv_name": "CCTV-15",
+			"tv_logo_url": "icon_tv_cctv15.png",
             "tv_url": "http://ivi.bupt.edu.cn/hls/cctv15hd.m3u8"
         },
         {
             "tv_is_open": true,
             "tv_name": "湖南卫视",
+			"tv_logo_url": "icon_tv_hunan.png",
             "tv_url": "http://202.107.186.137:5001/nn_live.m3u8?id=hunantvm&time=1537350435945"
         },
         {
             "tv_is_open": true,
             "tv_name": "安徽卫视",
+			"tv_logo_url": "icon_tv_anhui.png",
             "tv_url": "http://202.107.186.137:5001/nn_live.m3u8?id=anhuitvm&time=1537350435945"
         },
         {
             "tv_is_open": true,
             "tv_name": "东方卫视",
+			"tv_logo_url": "icon_tv_dongfang.png",
             "tv_url": "http://202.107.186.137:5001/nn_live.m3u8?id=dongfangtvm&time=1537350435945"
         },
         {
             "tv_is_open": true,
             "tv_name": "江苏卫视",
+			"tv_logo_url": "icon_tv_jiangsu.png",
             "tv_url": "http://202.107.186.137:5001/nn_live.m3u8?id=jiangsutvm&time=1537350435945"
         },
         {
             "tv_is_open": true,
             "tv_name": "浙江卫视",
+			"tv_logo_url": "icon_tv_zhejiang.png",
             "tv_url": "http://202.107.186.137:5001/nn_live.m3u8?id=zhejiangtvm&time=1537350435945"
         },
         {
             "tv_is_open": true,
             "tv_name": "辽宁卫视",
+			"tv_logo_url": "icon_tv_liaoning.png",
             "tv_url": "http://202.107.186.137:5001/nn_live.m3u8?id=liaoningtvm&time=1537350435945"
         },
         {
             "tv_is_open": true,
             "tv_name": "环球购物",
+			"tv_logo_url": "icon_tv_huanqiugouwu.png",
             "tv_url": "http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8"
         }
     ]
