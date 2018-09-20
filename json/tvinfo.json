@@ -7,12 +7,6 @@
             "tv_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"
         },
         {
-            "tv_is_open": true,
-            "tv_logo_url": "icon_tv_cctv1.png",
-            "tv_name": "CCTV-1",
-            "tv_url": "http://cctv.v.kcdnvip.com/live/cctv1_1/index.m3u8?BR=md&region=shanghai"
-        },
-        {
             "tv_is_open": false,
             "tv_logo_url": "icon_tv_cctv2.png",
             "tv_name": "CCTV-2",
