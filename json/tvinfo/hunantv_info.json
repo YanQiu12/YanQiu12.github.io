@@ -36,11 +36,35 @@
             "tv_name": "先锋乒羽",
             "tv_url": "http://hnml.chinashadt.com:1936/live/TV5.stream_360p/playlist.m3u8"
         },
-        {
+		{
             "tv_is_open": true,
-            "tv_logo_url": "icon_tv_cctv15.png",
-            "tv_name": "CCTV-15",
-            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv15.m3u8"
+            "tv_logo_url": "hnds.jpg",
+            "tv_name": "湖南都市",
+            "tv_url": "http://hnsd.chinashadt.com:2036/live/stream:hunandushi.stream/playlist.m3u8"
+        },
+		{
+            "tv_is_open": false,
+            "tv_logo_url": "jyjs.jpg",
+            "tv_name": "金鹰纪实",
+            "tv_url": "http://phoneliveal.mgtv.com/nn_live/nn_x64/aWQ9SllKU01QUDM2MCZjZG5leF9pZD1hbF9waG9uZV9saXZlMyZuZnQ9dHM,/JYJSMPP360.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_logo_url": "hngg.jpg",
+            "tv_name": "湖南公共",
+            "tv_url": "http://pili-playback.livexianyang.sobeycache.com/mg-tv/channel-9.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_logo_url": "hnyl.jpg",
+            "tv_name": "湖南娱乐",
+            "tv_url": "http://pili-playback.livexianyang.sobeycache.com/mg-tv/channel-8.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_logo_url": "happigo.jpg",
+            "tv_name": "快乐购",
+            "tv_url": "http://klglive.imgo.tv/nn_live/nn_x64/aWQ9S0xHTVBQMzYwJmNkbmV4X2lkPXdzX3Bob25lX2xpdmU,/KLGMPP360.m3u8"
         }
     ]
 }
