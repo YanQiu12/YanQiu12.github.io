@@ -1,0 +1,46 @@
+{
+    "tvinfo": [
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "hunantv.jpg",
+            "tv_name": "湖南卫视",
+            "tv_url": "http://202.107.186.137:5001/nn_live.m3u8?id=hunantvm&time=1537350435945"
+        },
+		{
+            "tv_is_open": true,
+            "tv_logo_url": "hunantv.jpg",
+            "tv_name": "湖南卫视",
+            "tv_url": "http://218.207.213.137/PLTV/88888888/224/3221226551/index.m3u8?time=1537515488276"
+        },
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "jykttv.jpg",
+            "tv_name": "金鹰卡通",
+            "tv_url": "http://202.107.186.134:5001/nn_live.m3u8?id=jinyingtvm"
+        },
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "hnjs.jpg",
+            "tv_name": "湖南经视",
+            "tv_url": "http://vod.zzlknews.cn:40731/live/_definst_/hnjs/playlist.m3u8"
+        },
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "klcd.jpg",
+            "tv_name": "快乐垂钓",
+            "tv_url": "http://218.207.213.137/PLTV/88888888/224/3221226132/index.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_logo_url": "xfpy.jpg",
+            "tv_name": "先锋乒羽",
+            "tv_url": "http://hnml.chinashadt.com:1936/live/TV5.stream_360p/playlist.m3u8"
+        },
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "icon_tv_cctv15.png",
+            "tv_name": "CCTV-15",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv15.m3u8"
+        }
+    ]
+}

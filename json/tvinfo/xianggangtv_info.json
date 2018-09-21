@@ -1,0 +1,22 @@
+{
+    "tvinfo": [
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "xianggangtv.jpg",
+            "tv_name": "香港卫视",
+            "tv_url": "http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8?wsSession=7abeb5ef9189f7db2b2fb3ed-153743703937358&wsIPSercert=1615cd5fdf06ebc2a72236b7afe51230&wsMonitor=-1&time=1537437046849"
+        },
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "fenghuangzixuntv.jpg",
+            "tv_name": "凤凰卫视资讯",
+            "tv_url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8"
+        },
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "huanqiugouwutv.png",
+            "tv_name": "环球购物",
+            "tv_url": "http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8"
+        }
+    ]
+}

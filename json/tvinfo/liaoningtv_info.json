@@ -1,0 +1,10 @@
+{
+    "tvinfo": [
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "beijingtv.jpg",
+            "tv_name": "北京卫视",
+            "tv_url": "http://hls.cntv.myqcloud.com/5213.liveplay.myqcloud.com/live/5213_btv1_2000.m3u8?"
+        }
+    ]
+}
