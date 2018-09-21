@@ -1,0 +1,94 @@
+{
+    "tvinfo": [
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "icon_tv_cctv1.png",
+            "tv_name": "CCTV-1",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv1.m3u8"
+        },
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "icon_tv_cctv2.png",
+            "tv_name": "CCTV-2",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8"
+        },
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "icon_tv_cctv3.png",
+            "tv_name": "CCTV-3",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv3.m3u8"
+        },
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "icon_tv_cctv4.png",
+            "tv_name": "CCTV-4",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv4.m3u8"
+        },
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "icon_tv_cctv5.png",
+            "tv_name": "CCTV-5",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv5.m3u8"
+        },
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "icon_tv_cctv6.png",
+            "tv_name": "CCTV-6",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv6.m3u8"
+        },
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "icon_tv_cctv7.png",
+            "tv_name": "CCTV-7",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv7.m3u8"
+        },
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "icon_tv_cctv8.png",
+            "tv_name": "CCTV-8",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv8.m3u8"
+        },
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "icon_tv_cctv9.png",
+            "tv_name": "CCTV-9",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv9.m3u8"
+        },
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "icon_tv_cctv10.png",
+            "tv_name": "CCTV-10",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv10.m3u8"
+        },
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "icon_tv_cctv11.png",
+            "tv_name": "CCTV-11",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv11.m3u8"
+        },
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "icon_tv_cctv12.png",
+            "tv_name": "CCTV-12",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv12.m3u8"
+        },
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "icon_tv_cctv13.png",
+            "tv_name": "CCTV-13",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv13.m3u8"
+        },
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "icon_tv_cctv14.png",
+            "tv_name": "CCTV-14",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv14.m3u8"
+        },
+        {
+            "tv_is_open": true,
+            "tv_logo_url": "icon_tv_cctv15.png",
+            "tv_name": "CCTV-15",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv15.m3u8"
+        }
+    ]
+}
