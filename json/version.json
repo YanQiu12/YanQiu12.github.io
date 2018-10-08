@@ -1,6 +1,6 @@
 {
-    "appAddress": "https://yanqiu12.github.io/apks/tv_yanqiu_1.0.apk",
+    "appAddress": "https://yanqiu12.github.io/apks/tv_yanqiu_1.0.2.apk",
     "usedApp": true,
-    "usedVersionCode": "1,2,3",
-    "versionCode": 1
+    "usedVersionCode": "2",
+    "versionCode": 2
 }
