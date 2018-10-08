@@ -4,7 +4,7 @@
             "tv_is_open": true,
             "tv_logo_url": "guangxitv.jpg",
             "tv_name": "广西卫视",
-            "tv_url": "http://202.107.186.137:5001/nn_live.m3u8?id=guangxitvm&time=1537350435945"
+            "tv_url": "http://ivi.bupt.edu.cn/hls/gxtv.m3u8"
         }
     ]
 }
