@@ -4,7 +4,53 @@
             "tv_is_open": true,
             "tv_logo_url": "beijingtv.jpg",
             "tv_name": "北京卫视",
-            "tv_url": "http://202.107.186.137:5001/nn_live.m3u8?id=beijingtvm&time=1537350435945"
+            "tv_url": "http://ivi.bupt.edu.cn/hls/btv1.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_logo_url": "beijingtv.jpg",
+            "tv_name": "北京卫视",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/btv2.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_logo_url": "beijingtv.jpg",
+            "tv_name": "北京卫视",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/btv3.m3u8"
+        },{
+            "tv_is_open": true,
+            "tv_logo_url": "beijingtv.jpg",
+            "tv_name": "北京卫视",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/btv4.m3u8"
+        },{
+            "tv_is_open": true,
+            "tv_logo_url": "beijingtv.jpg",
+            "tv_name": "北京卫视",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/btv5.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_logo_url": "beijingtv.jpg",
+            "tv_name": "北京卫视",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/btv6.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_logo_url": "beijingtv.jpg",
+            "tv_name": "北京卫视",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/btv7.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_logo_url": "beijingtv.jpg",
+            "tv_name": "北京卫视",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/btv8.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_logo_url": "beijingtv.jpg",
+            "tv_name": "北京卫视",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/btv9.m3u8"
         }
     ]
 }

@@ -1,11 +1,5 @@
 {
     "tvinfo": [
-        {
-            "tv_is_open": true,
-            "tv_logo_url": "hunantv.jpg",
-            "tv_name": "湖南卫视",
-            "tv_url": "http://202.107.186.137:5001/nn_live.m3u8?id=hunantvm&time=1537350435945"
-        },
 		{
             "tv_is_open": true,
             "tv_logo_url": "hunantv.jpg",
@@ -16,7 +10,7 @@
             "tv_is_open": true,
             "tv_logo_url": "jykttv.jpg",
             "tv_name": "金鹰卡通",
-            "tv_url": "http://202.107.186.134:5001/nn_live.m3u8?id=jinyingtvm"
+            "tv_url": "http://183.207.249.15/PLTV/3/224/3221225620/index.m3u8"
         },
         {
             "tv_is_open": true,
@@ -31,7 +25,7 @@
             "tv_url": "http://218.207.213.137/PLTV/88888888/224/3221226132/index.m3u8"
         },
 		{
-            "tv_is_open": true,
+            "tv_is_open": false,
             "tv_logo_url": "xfpy.jpg",
             "tv_name": "先锋乒羽",
             "tv_url": "http://hnml.chinashadt.com:1936/live/TV5.stream_360p/playlist.m3u8"

@@ -4,7 +4,7 @@
             "tv_is_open": true,
             "tv_logo_url": "jiangsutv.jpg",
             "tv_name": "江苏卫视",
-            "tv_url": "http://202.107.186.137:5001/nn_live.m3u8?id=jiangsutvm&time=1537350435945"
+            "tv_url": "http://ivi.bupt.edu.cn/hls/jstv.m3u8"
         }
     ]
 }

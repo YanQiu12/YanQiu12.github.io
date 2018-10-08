@@ -4,7 +4,7 @@
             "tv_is_open": true,
             "tv_logo_url": "dongfangtv.jpg",
             "tv_name": "东方卫视",
-            "tv_url": "http://202.107.186.137:5001/nn_live.m3u8?id=dongfangtvm&time=1537350435945"
+            "tv_url": "http://ivi.bupt.edu.cn/hls/dfhd.m3u8"
         }
     ]
 }
