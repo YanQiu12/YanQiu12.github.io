@@ -8,7 +8,7 @@
             "frq_1": "3.32",
             "frq_3": "2.60",
             "frqtype": "0",
-            "hostteam": "山口雷诺",
+            "hostteam": "AAA",
             "league": "日乙",
             "letball": "1",
             "playid": "001",
@@ -16,7 +16,7 @@
             "rq_1": "4.10",
             "rq_3": "1.49",
             "starttime": "2018-10-17 18:00:00",
-            "visitteam": "町田泽维"
+            "visitteam": "AAA"
         },
         {
             "DAY": "20181018",
@@ -26,7 +26,7 @@
             "frq_1": "3.32",
             "frq_3": "2.60",
             "frqtype": "0",
-            "hostteam": "皇家马德里",
+            "hostteam": "BBB",
             "league": "英超",
             "letball": "1",
             "playid": "008",
@@ -34,7 +34,7 @@
             "rq_1": "4.10",
             "rq_3": "1.49",
             "starttime": "2018-10-17 18:00:00",
-            "visitteam": "皇家马德里"
+            "visitteam": "BBB"
         }
     ],
     "msg": "success",
