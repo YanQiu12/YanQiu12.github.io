@@ -2,7 +2,7 @@
     "tvinfo": [
 		{
             "tv_is_open": true,
-            "tv_name": "福建东南卫视",
+            "tv_name": "东南卫视",
             "tv_url": "http://ivi.bupt.edu.cn/hls/dntv.m3u8"
         }
     ]
