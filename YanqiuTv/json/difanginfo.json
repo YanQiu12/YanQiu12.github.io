@@ -89,6 +89,11 @@
             "tv_is_open": true,
             "tv_name": "香港卫视",
             "difang_json_url": "tvinfo/xianggangtv_info.json"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "精彩卫视",
+            "difang_json_url": "tvinfo/jingcaitv_info.json"
         }
     ]
 }

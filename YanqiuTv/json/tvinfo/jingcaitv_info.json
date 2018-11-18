@@ -1,0 +1,9 @@
+{
+    "tvinfo": [
+        {
+            "tv_is_open": true,
+            "tv_name": "南方卫视",
+            "tv_url": "http://stream1.grtn.cn/tvs2/sd/live.m3u8"
+        }
+    ]
+}
