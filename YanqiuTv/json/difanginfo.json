@@ -65,6 +65,16 @@
             "tv_name": "山东卫视",
             "difang_json_url": "tvinfo/shandongtv_info.json"
         },
+		{
+            "tv_is_open": true,
+            "tv_name": "山西卫视",
+            "difang_json_url": "tvinfo/shanxi1tv_info.json"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "陕西卫视",
+            "difang_json_url": "tvinfo/shanxi3tv_info.json"
+        },
         {
             "tv_is_open": true,
             "tv_name": "天津卫视",

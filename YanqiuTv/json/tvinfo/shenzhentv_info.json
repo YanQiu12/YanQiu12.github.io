@@ -3,7 +3,7 @@
         {
             "tv_is_open": true,
             "tv_name": "深圳卫视",
-            "tv_url": "http://202.107.186.137:5001/nn_live.m3u8?id=shenzhentvm&time=1537350435945"
+            "tv_url": "http://ivi.bupt.edu.cn/hls/sztv.m3u8"
         }
     ]
 }
