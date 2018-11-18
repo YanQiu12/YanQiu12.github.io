@@ -7,41 +7,46 @@
         },
 		{
             "tv_is_open": true,
-            "tv_name": "北京卫视2",
+            "tv_name": "北京文艺",
             "tv_url": "http://ivi.bupt.edu.cn/hls/btv2.m3u8"
         },
 		{
             "tv_is_open": true,
-            "tv_name": "北京卫视3",
+            "tv_name": "北京科教",
             "tv_url": "http://ivi.bupt.edu.cn/hls/btv3.m3u8"
         },{
             "tv_is_open": true,
-            "tv_name": "北京卫视4",
+            "tv_name": "北京影视",
             "tv_url": "http://ivi.bupt.edu.cn/hls/btv4.m3u8"
         },{
             "tv_is_open": true,
-            "tv_name": "北京卫视5",
+            "tv_name": "北京财经",
             "tv_url": "http://ivi.bupt.edu.cn/hls/btv5.m3u8"
         },
 		{
             "tv_is_open": true,
-            "tv_name": "北京卫视6",
+            "tv_name": "北京体育",
             "tv_url": "http://ivi.bupt.edu.cn/hls/btv6.m3u8"
         },
 		{
             "tv_is_open": true,
-            "tv_name": "北京卫视7",
+            "tv_name": "北京生活",
             "tv_url": "http://ivi.bupt.edu.cn/hls/btv7.m3u8"
         },
 		{
             "tv_is_open": true,
-            "tv_name": "北京卫视8",
+            "tv_name": "北京青年",
             "tv_url": "http://ivi.bupt.edu.cn/hls/btv8.m3u8"
         },
 		{
             "tv_is_open": true,
-            "tv_name": "北京卫视9",
+            "tv_name": "北京新闻",
             "tv_url": "http://ivi.bupt.edu.cn/hls/btv9.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "北京卡酷少儿",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/btv10.m3u8"
         }
     ]
 }
