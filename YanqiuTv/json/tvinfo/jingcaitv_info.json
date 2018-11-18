@@ -1,5 +1,15 @@
 {
     "tvinfo": [
+		{
+            "tv_is_open": true,
+            "tv_name": "兵团卫视",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/bttv.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "旅游卫视",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/lytv.m3u8"
+        },
         {
             "tv_is_open": true,
             "tv_name": "南方卫视",
