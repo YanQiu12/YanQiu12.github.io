@@ -10,6 +10,11 @@
             "tv_name": "湖南卫视",
             "difang_json_url": "tvinfo/hunantv_info.json"
         },
+		{
+            "tv_is_open": true,
+            "tv_name": "湖北卫视",
+            "difang_json_url": "tvinfo/hubeitv_info.json"
+        },
         {
             "tv_is_open": true,
             "tv_name": "安徽卫视",
@@ -74,6 +79,11 @@
             "tv_is_open": true,
             "tv_name": "陕西卫视",
             "difang_json_url": "tvinfo/shanxi3tv_info.json"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "吉林卫视",
+            "difang_json_url": "tvinfo/jilintv_info.json"
         },
         {
             "tv_is_open": true,
