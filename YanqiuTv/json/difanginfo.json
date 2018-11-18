@@ -115,6 +115,11 @@
             "tv_name": "西藏卫视",
             "difang_json_url": "tvinfo/xizangtv_info.json"
         },
+		{
+            "tv_is_open": true,
+            "tv_name": "内蒙古卫视",
+            "difang_json_url": "tvinfo/neimenggutv_info.json"
+        },
         {
             "tv_is_open": true,
             "tv_name": "香港卫视",
