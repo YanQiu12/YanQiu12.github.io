@@ -100,11 +100,6 @@
             "tv_name": "吉林卫视",
             "difang_json_url": "tvinfo/jilintv_info.json"
         },
-		{
-            "tv_is_open": true,
-            "tv_name": "黑龙江卫视",
-            "difang_json_url": "tvinfo/heilongjiangtv_info.json"
-        },
         {
             "tv_is_open": true,
             "tv_name": "天津卫视",
@@ -164,6 +159,11 @@
             "tv_is_open": true,
             "tv_name": "西藏卫视",
             "difang_json_url": "tvinfo/xizangtv_info.json"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "黑龙江卫视",
+            "difang_json_url": "tvinfo/heilongjiangtv_info.json"
         },
 		{
             "tv_is_open": true,
