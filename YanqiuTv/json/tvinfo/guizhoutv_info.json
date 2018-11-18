@@ -1,0 +1,9 @@
+{
+    "tvinfo": [
+        {
+            "tv_is_open": true,
+            "tv_name": "贵州卫视",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/gztv.m3u8"
+        }
+    ]
+}

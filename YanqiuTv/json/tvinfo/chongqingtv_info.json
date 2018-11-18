@@ -1,0 +1,9 @@
+{
+    "tvinfo": [
+		{
+            "tv_is_open": true,
+            "tv_name": "重庆卫视",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cqtv.m3u8"
+        }
+    ]
+}

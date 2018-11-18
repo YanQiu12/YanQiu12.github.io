@@ -45,6 +45,11 @@
             "tv_name": "浙江卫视",
             "difang_json_url": "tvinfo/zhejiangtv_info.json"
         },
+		 {
+            "tv_is_open": true,
+            "tv_name": "重庆卫视",
+            "difang_json_url": "tvinfo/chongqingtv_info.json"
+        },
         {
             "tv_is_open": true,
             "tv_name": "辽宁卫视",
@@ -125,7 +130,22 @@
             "tv_name": "香港卫视",
             "difang_json_url": "tvinfo/xianggangtv_info.json"
         },
+		{
+            "tv_is_open": true,
+            "tv_name": "贵州卫视",
+            "difang_json_url": "tvinfo/guizhoutv_info.json"
+        },
         {
+            "tv_is_open": true,
+            "tv_name": "宁夏卫视",
+            "difang_json_url": "tvinfo/ningxiatv_info.json"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "甘肃卫视",
+            "difang_json_url": "tvinfo/gansutv_info.json"
+        },
+		{
             "tv_is_open": true,
             "tv_name": "云南卫视",
             "difang_json_url": "tvinfo/yunnantv_info.json"
