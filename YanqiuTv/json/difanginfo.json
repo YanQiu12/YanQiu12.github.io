@@ -7,6 +7,11 @@
         },
 		{
             "tv_is_open": true,
+            "tv_name": "CHC电影",
+            "difang_json_url": "tvinfo/chctv_info.json"
+        },
+		{
+            "tv_is_open": true,
             "tv_name": "河南卫视",
             "difang_json_url": "tvinfo/henantv_info.json"
         },

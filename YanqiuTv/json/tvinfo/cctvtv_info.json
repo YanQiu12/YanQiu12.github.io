@@ -8,7 +8,7 @@
         {
             "tv_is_open": true,
             "tv_name": "CCTV-2财经",
-            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8"
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv2.m3u8"
         },
         {
             "tv_is_open": true,
@@ -79,6 +79,36 @@
             "tv_is_open": true,
             "tv_name": "CCTV-NEWS",
             "tv_url": "http://ivi.bupt.edu.cn/hls/cctv16.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "CCTV-1高清",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "CCTV-3高清",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "CCTV-5高清",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "CCTV-5+高清",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "CCTV-6高清",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "CCTV-8高清",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8"
         }
     ]
 }

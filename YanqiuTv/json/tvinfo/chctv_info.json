@@ -1,0 +1,9 @@
+{
+    "tvinfo": [
+        {
+            "tv_is_open": true,
+            "tv_name": "CHC高清电影",
+            "tv_url": "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
+        }
+    ]
+}
