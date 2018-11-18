@@ -2,7 +2,6 @@
     "tvinfo": [
         {
             "tv_is_open": true,
-            "tv_logo_url": "zhejiangtv.jpg",
             "tv_name": "浙江卫视",
             "tv_url": "http://202.107.186.137:5001/nn_live.m3u8?id=zhejiangtvm&time=1537350435945"
         }

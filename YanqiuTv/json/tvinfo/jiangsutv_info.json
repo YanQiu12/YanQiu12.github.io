@@ -2,7 +2,6 @@
     "tvinfo": [
         {
             "tv_is_open": true,
-            "tv_logo_url": "jiangsutv.jpg",
             "tv_name": "江苏卫视",
             "tv_url": "http://ivi.bupt.edu.cn/hls/jstv.m3u8"
         }

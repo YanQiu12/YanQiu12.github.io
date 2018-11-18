@@ -2,109 +2,91 @@
     "difangtvinfo": [
         {
             "tv_is_open": true,
-            "tv_logo_url": "icon_tv_cctv1.png",
             "tv_name": "CCTV",
             "difang_json_url": "tvinfo/cctvtv_info.json"
         },
         {
             "tv_is_open": true,
-            "tv_logo_url": "hunantv.jpg",
             "tv_name": "湖南卫视",
             "difang_json_url": "tvinfo/hunantv_info.json"
         },
         {
             "tv_is_open": true,
-            "tv_logo_url": "anhuitv.jpg",
             "tv_name": "安徽卫视",
             "difang_json_url": "tvinfo/anhuitv_info.json"
         },
         {
             "tv_is_open": true,
-            "tv_logo_url": "dongfangtv.jpg",
             "tv_name": "东方卫视",
             "difang_json_url": "tvinfo/dongfangtv_info.json"
         },
         {
             "tv_is_open": true,
-            "tv_logo_url": "jiangsutv.jpg",
             "tv_name": "江苏卫视",
             "difang_json_url": "tvinfo/jiangsutv_info.json"
         },
         {
             "tv_is_open": true,
-            "tv_logo_url": "zhejiangtv.jpg",
             "tv_name": "浙江卫视",
             "difang_json_url": "tvinfo/zhejiangtv_info.json"
         },
         {
             "tv_is_open": true,
-            "tv_logo_url": "liaoningtv.jpg",
             "tv_name": "辽宁卫视",
             "difang_json_url": "tvinfo/liaoningtv_info.json"
         },
         {
             "tv_is_open": true,
-            "tv_logo_url": "guangxitv.jpg",
             "tv_name": "广西卫视",
             "difang_json_url": "tvinfo/guangxitv_info.json"
         },
         {
             "tv_is_open": true,
-            "tv_logo_url": "beijingtv.jpg",
             "tv_name": "北京卫视",
             "difang_json_url": "tvinfo/beijingtv_info.json"
         },
         {
             "tv_is_open": true,
-            "tv_logo_url": "guangdongtv.jpg",
             "tv_name": "广东卫视",
             "difang_json_url": "tvinfo/guangdongtv_info.json"
         },
         {
             "tv_is_open": true,
-            "tv_logo_url": "jiangxitv.jpg",
             "tv_name": "江西卫视",
             "difang_json_url": "tvinfo/jiangxitv_info.json"
         },
         {
             "tv_is_open": true,
-            "tv_logo_url": "sichuantv.jpg",
             "tv_name": "四川卫视",
             "difang_json_url": "tvinfo/sichuantv_info.json"
         },
         {
             "tv_is_open": true,
-            "tv_logo_url": "shandongtv.jpg",
             "tv_name": "山东卫视",
             "difang_json_url": "tvinfo/shandongtv_info.json"
         },
         {
             "tv_is_open": true,
-            "tv_logo_url": "tianjintv.jpg",
             "tv_name": "天津卫视",
             "difang_json_url": "tvinfo/tianjintv_info.json"
         },
         {
             "tv_is_open": true,
-            "tv_logo_url": "shenzhentv.jpg",
             "tv_name": "深圳卫视",
             "difang_json_url": "tvinfo/shenzhentv_info.json"
         },
         {
             "tv_is_open": true,
-            "tv_logo_url": "yunnantv.jpg",
             "tv_name": "云南卫视",
             "difang_json_url": "tvinfo/yunnantv_info.json"
         },
         {
             "tv_is_open": true,
-            "tv_logo_url": "henantv.jpg",
             "tv_name": "河南卫视",
             "difang_json_url": "tvinfo/henantv_info.json"
         },
         {
             "tv_is_open": true,
-            "tv_logo_url": "xianggangtv.jpg",
             "tv_name": "香港卫视",
             "difang_json_url": "tvinfo/xianggangtv_info.json"
         }

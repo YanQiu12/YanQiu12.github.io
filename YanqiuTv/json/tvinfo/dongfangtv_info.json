@@ -2,7 +2,6 @@
     "tvinfo": [
         {
             "tv_is_open": true,
-            "tv_logo_url": "dongfangtv.jpg",
             "tv_name": "东方卫视",
             "tv_url": "http://ivi.bupt.edu.cn/hls/dfhd.m3u8"
         }

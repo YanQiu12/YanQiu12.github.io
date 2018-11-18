@@ -2,7 +2,6 @@
     "tvinfo": [
         {
             "tv_is_open": true,
-            "tv_logo_url": "henantv.jpg",
             "tv_name": "河南卫视",
             "tv_url": "http://ivi.bupt.edu.cn/hls/hntv.m3u8"
         }
