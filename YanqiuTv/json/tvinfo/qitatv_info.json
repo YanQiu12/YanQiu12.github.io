@@ -1,0 +1,29 @@
+{
+    "tvinfo": [
+        {
+            "tv_is_open": true,
+            "tv_name": "美国1",
+            "tv_url": "rtmp://ns8.indexforce.com/home/mystream"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "美国2",
+            "tv_url": "rtmp://media3.scctv.net/live/scctv_800"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "韩国朝鲜日报",
+            "tv_url": "rtmp://live.chosun.gscdn.com/live/tvchosun1.stream"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "韩国GoodTV",
+            "tv_url": "rtmp://mobliestream.c3tv.com:554/live/goodtv.sdp"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "美国中文电视",
+            "tv_url": "rtmp://media3.sinovision.net:1935/live/livestream"
+        }	
+    ]
+}

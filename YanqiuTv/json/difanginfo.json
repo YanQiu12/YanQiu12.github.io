@@ -179,6 +179,11 @@
             "tv_is_open": true,
             "tv_name": "精彩卫视",
             "difang_json_url": "tvinfo/jingcaitv_info.json"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "其他卫视",
+            "difang_json_url": "tvinfo/qitatv_info.json"
         }
     ]
 }
