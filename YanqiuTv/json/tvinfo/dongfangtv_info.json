@@ -5,6 +5,11 @@
             "tv_name": "东方卫视",
             "tv_url": "http://ivi.bupt.edu.cn/hls/dftv.m3u8"
         },
+		{
+            "tv_is_open": true,
+            "tv_name": "东方卫视2",
+            "tv_url": "rtsp://60.214.109.103:1554/iptv/Tvod/iptv/001/001/ch15050917541568689826.rsc/34393_Uni.sdp"
+        },
         {
             "tv_is_open": true,
             "tv_name": "东方高清卫视",
