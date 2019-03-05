@@ -2,18 +2,18 @@
     "tvinfo": [
 		{
             "tv_is_open": true,
-            "tv_name": "宫廷剧场",
-            "tv_url": "http://116.66.222.46:8082/TV4002.m3u8"
+            "tv_name": "游戏风云",
+            "tv_url": "rtsp://113.136.42.39:554/PLTV/88888888/224/0/3221225620/iptv19035.smil"
         },
 		{
             "tv_is_open": true,
-            "tv_name": "超清MV",
-            "tv_url": "http://dlhls.cdn.zhanqi.tv/zqlive/19969_TnDT2.m3u8"
+            "tv_name": "直播室",
+            "tv_url": "rtsp://113.136.42.39:554/PLTV/88888888/224/0/3221225566/iptv19052.smil"
         },
         {
             "tv_is_open": true,
-            "tv_name": "波妞",
-            "tv_url": "http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8"
+            "tv_name": "游戏玩家",
+            "tv_url": "rtsp://113.136.42.39:554/PLTV/88888888/224/0/3221225574/iptv19060.smil"
         },
 		{
             "tv_is_open": true,
