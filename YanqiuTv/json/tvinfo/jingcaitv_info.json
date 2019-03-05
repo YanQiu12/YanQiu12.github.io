@@ -14,6 +14,141 @@
             "tv_is_open": true,
             "tv_name": "南方卫视",
             "tv_url": "http://stream1.grtn.cn/tvs2/sd/live.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "星空卫视",
+            "tv_url": "http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "HKS衛視",
+            "tv_url": "http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "CHC动作",
+            "tv_url": "http://hbmc.chinashadt.com:2739/live/dzdy.stream_360p/playlist.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "CNTV动画",
+            "tv_url": "http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "CNTV古装",
+            "tv_url": "http://183.207.249.7/PLTV/3/224/3221225527/index.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "CNTV海外",
+            "tv_url": "http://183.207.249.7/PLTV/3/224/3221225547/index.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "CNTV惊悚",
+            "tv_url": "http://183.207.249.7/PLTV/3/224/3221225561/index.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "CNTV军旅",
+            "tv_url": "http://183.207.249.7/PLTV/3/224/3221225531/index.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "爱情喜剧",
+            "tv_url": "http://183.207.249.15/PLTV/3/224/3221225525/index.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "澳门卫视",
+            "tv_url": "http://stream.mastvnet.com/MSTV/SD/live.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "澳亚卫视",
+            "tv_url": "http://stream.mastvnet.com/MASTV/sd/live.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "车视界",
+            "tv_url": "http://dlhls.live.cnlive.com:1935/cdn/cheshijie/playlist.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "放映厅-13",
+            "tv_url": "http://dlhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "海外剧场",
+            "tv_url": "http://183.207.249.15/PLTV/3/224/3221225547/index.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "奇妙台",
+            "tv_url": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "神州卫视",
+            "tv_url": "http://pull.kapad.cn/live/livechtv/playlist.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "核能小清新",
+            "tv_url": "http://dlhls.cdn.zhanqi.tv/zqlive/88945_Kligp.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "ZQ雪儿",
+            "tv_url": "http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "猪猪",
+            "tv_url": "http://dlhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "蚂蚁的力量",
+            "tv_url": "http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "战旗电影",
+            "tv_url": "http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "美少女团",
+            "tv_url": "http://dlhls.cdn.zhanqi.tv/zqlive/19969_TnDT2.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "萌凌凌",
+            "tv_url": "http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "爱情公寓",
+            "tv_url": "http://dlhls.cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "喜与忧",
+            "tv_url": "http://dlhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "看电影",
+            "tv_url": "http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "老司机",
+            "tv_url": "http://dlhls.cdn.zhanqi.tv/zqlive/154733_xcVyM.m3u8"
         }
     ]
 }

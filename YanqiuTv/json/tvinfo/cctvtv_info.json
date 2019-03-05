@@ -5,6 +5,16 @@
             "tv_name": "CCTV-1综合",
             "tv_url": "http://ivi.bupt.edu.cn/hls/cctv1.m3u8"
         },
+		{
+            "tv_is_open": true,
+            "tv_name": "CCTV-1FHD",
+            "tv_url": "http://183.251.61.207/PLTV/88888888/224/3221225922/index.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "CCTV-1HD",
+            "tv_url": "http://183.251.61.207/PLTV/88888888/224/3221225812/index.m3u8"
+        },
         {
             "tv_is_open": true,
             "tv_name": "CCTV-2财经",
@@ -29,6 +39,11 @@
             "tv_is_open": true,
             "tv_name": "CCTV-6电影",
             "tv_url": "http://ivi.bupt.edu.cn/hls/cctv6.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "CCTV-6FHD",
+            "tv_url": "http://183.251.61.207/PLTV/88888888/224/3221225804/index.m3u8"
         },
         {
             "tv_is_open": true,

@@ -24,6 +24,16 @@
             "tv_is_open": true,
             "tv_name": "美国中文电视",
             "tv_url": "rtmp://media3.sinovision.net:1935/live/livestream"
-        }	
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "美国中文电视",
+            "tv_url": "http://media3.sinovision.net:1935/live/livestream/playlist.m3u8"
+        },
+		{
+            "tv_is_open": true,
+            "tv_name": "星卫电视",
+            "tv_url": "http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8"
+        }
     ]
 }
