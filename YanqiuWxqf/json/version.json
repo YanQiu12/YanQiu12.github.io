@@ -1,7 +1,7 @@
 {
-    "appAddress": "https://yanqiu12.github.io/YanqiuWxqf/apks/wxqf_yanqiu_v1.0.2.apk",
+    "appAddress": "https://yanqiu12.github.io/YanqiuWxqf/apks/wxqf_yanqiu_v1.0.3.apk",
     "usedApp": true,
-    "usedVersionCode": "2",
-    "newVersionCode": 2,
-	 "content": "\n就不告诉你我们更新了什么-。-\n\n----------万能的分割线-----------\n\n(ㄒoㄒ) 被老板打了一顿，还是来告诉你吧：\n1.下架商品误买了？恩。。。我搞了点小动作就不会出现了\n2.侧边栏、弹框优化 —— 这个你自己去探索吧，总得留点悬念嘛-。-\n"
+    "usedVersionCode": "3",
+    "newVersionCode": 3,
+	 "content": "\n1.修改了Splash页面背景\n2.修复了一些小bug\n"
 }
