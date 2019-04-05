@@ -1,7 +1,7 @@
 {
     "appAddress": "https://yanqiu12.github.io/YanqiuWxqf/apks/wxqf_yanqiu_v1.0.3.apk",
     "usedApp": true,
-    "usedVersionCode": "3",
-    "newVersionCode": 3,
+    "usedVersionCode": "2",
+    "newVersionCode": 2,
 	 "content": "\n1.修改了Splash页面背景\n2.修复了一些小bug\n"
 }
