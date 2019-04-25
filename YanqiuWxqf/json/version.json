@@ -1,7 +1,7 @@
 {
     "appAddress": "https://yanqiu12.github.io/YanqiuWxqf/apks/wxqf_yanqiu_v1.0.3.apk",
     "usedApp": true,
-    "usedVersionCode": "3",
+    "usedVersionCode": "3,4",
     "newVersionCode": 3,
 	 "content": "\n1.好友选择界面优先显示好友备注名\n2.修复了一些小bug\n"
 }
