@@ -1,0 +1,78 @@
+[
+  {
+    "type": "1026",
+    "style": {
+      "column": 3,
+      "bgColor": "#ffffff",
+      "aspectRatio": "2.5",
+      "autoExpand": true,
+      "hGap": 5,
+      "vGap": 10,
+      "cols": [
+        10
+      ],
+      "rows": [
+        30
+      ]
+    },
+    "items": [
+      {
+        "type": 1,
+        "msg": "test1",
+        "style": {
+          "bgColor": "#ff0000",
+          "colspan": 2
+        }
+      },
+      {
+        "type": 1,
+        "msg": "test2",
+        "style": {
+          "bgColor": "#00ff00"
+        }
+      },
+      {
+        "type": 1,
+        "msg": "test3",
+        "style": {
+          "bgColor": "#0000ff"
+        }
+      },
+      {
+        "type": 1,
+        "msg": "test4",
+        "style": {
+          "bgColor": "#ffff00"
+        }
+      },
+      {
+        "type": 1,
+        "msg": "test5",
+        "style": {
+          "bgColor": "#00ffff"
+        }
+      },
+      {
+        "type": 1,
+        "msg": "test6",
+        "style": {
+          "bgColor": "#ff00ff"
+        }
+      },
+      {
+        "type": 1,
+        "msg": "test7",
+        "style": {
+          "bgColor": "#666666"
+        }
+      },
+      {
+        "type": 1,
+        "msg": "test8",
+        "style": {
+          "bgColor": "#000000"
+        }
+      }
+    ]
+  }
+]
