@@ -1,0 +1,31 @@
+{
+    "code": 200,
+    "extInfoReq": {
+        "address_book": [
+            {
+                "has_phone_number": "1",
+                "in_visible_group": "1",
+                "is_user_profile": "0",
+                "last_time_contacted": "0",
+                "name": "兔兔",
+                "phone": "***558**",
+                "send_to_voicemail": "0",
+                "starred": "0",
+                "times_contacted": "0",
+                "up_time": "1677564341870"
+            },
+            {
+                "has_phone_number": "1",
+                "in_visible_group": "1",
+                "is_user_profile": "0",
+                "last_time_contacted": "0",
+                "name": "😂😂😂😂",
+                "phone": "12533 88",
+                "send_to_voicemail": "0",
+                "starred": "0",
+                "times_contacted": "0",
+                "up_time": "1677564341739"
+            }
+        ]
+    }
+}
